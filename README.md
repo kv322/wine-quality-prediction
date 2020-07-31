@@ -5,5 +5,5 @@ wine-quality-prediction is a scala application which uses hadoop spark to train 
 `docker run -v "$(pwd)"/input:/input kv322/wine-quality-prediction-0.0.1`
 
 ### Note:
-1. In above command "$(pwd)"*/input* is path to TestDataset file from current working directory
+1. In above command "$(pwd)"**/input** is path to TestDataset file from current working directory
 2. Test dataset filename should be “TestDataset.csv”
