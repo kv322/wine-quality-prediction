@@ -18,4 +18,4 @@ Goto spark2.4.0/bin directory and run below command
 ### Note:
 Sample directory and path from current working directory
 
-### For more information please see README.docx for steps and sample output
+### For more information please see README_FULL.docx for steps and sample output
